@@ -53,8 +53,8 @@ sd 0x1FE906F (32 Bits)
 #include <WiFiClient.h>
 #include <WebServer.h>
 // WiFi Credentils
-const char* ssid = "JioFiber-xMxUU";
-const char* password = "Ha5quaYahp0vao5p";
+const char* ssid = "Your-SSID";
+const char* password = "Your-Password";
 // BLE Credentils
 const char *service_name = "PROV_1234";
 const char *pop = "abcd1234";
